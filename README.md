@@ -22,7 +22,7 @@ Please see `Running the code section` to see where to place the downloaded files
 ## Contribution to the repo
 
 To contribute to the project, please follow these steps:
-- Clone it to your local machine `git clone git@github.com:asu-cse578-s2023/Abhinav-Bharat-Jayanth-Rahil-Shreya-Snehal.git`
+- Clone it to your local machine `git clone git@github.com/Aquazero8/City-Data-Viz`
 - Create a new branch with the feature+contributor name `git checkout -b <feature_contributor>`
 - Push the changes to the branch.
 - Create a PR from github.
