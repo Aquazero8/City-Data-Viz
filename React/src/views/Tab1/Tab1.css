@@ -1,0 +1,58 @@
+.container{
+    /* height: 63vh; */
+    color: #ff9a02
+}
+.div__baseMap{
+    height: 95%;
+    width: 100%;
+}
+
+.svg__baseMap{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid grey; */
+}
+
+.svg__baseMap__Rental,
+.svg__baseMap__heatmap,
+.svg__baseMap__Occupancy,
+.svg__baseMap__participantMovement{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid grey; */
+}
+
+.map_container{
+    margin-top: 6%;
+}
+
+.heatMap{
+    margin-top: 0%;
+}
+
+.hide{
+    display: none;
+}
+
+.base-map-selector{
+    display: flex;
+    margin-bottom: 2%;
+    /* border: 1px solid grey; */
+}
+
+.glass{
+    width: 100%; 
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.7),rgba(255, 255, 255, 0.3));
+    border-radius: 2rem;
+    border-radius: 2rem;
+    z-index: 2;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.radio-inputs_2{
+
+    /* display: flex; */
+    /* justify-content: flex-end;
+    flex-direction: column; */
+}

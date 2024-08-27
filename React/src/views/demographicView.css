@@ -1,0 +1,29 @@
+.barGraphContainer{
+    display: flex;
+}
+
+.populationSelected_joviality{
+    display: flex;
+    place-content: center;
+    place-items: center;
+    flex-direction: column;
+}
+
+.population_circle{
+    display: flex;
+    /* place-content: center; */
+    flex-direction: column;
+    place-items: center;
+}
+
+.reset_button{
+    background-color: black;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.bar{
+    cursor: pointer;
+}

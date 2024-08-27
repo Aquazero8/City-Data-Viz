@@ -1,0 +1,16 @@
+/* .div__baseMap{
+    height: 100%;
+    width: 100%;
+}
+.svg__baseMap{
+    height: 100%;
+    width: 40%;
+    border: 1px solid grey;
+}
+.baseMap__image{
+    width: 100%;
+} */
+
+.geoPath path{
+    cursor: pointer;
+}
